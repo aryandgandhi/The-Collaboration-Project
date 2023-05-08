@@ -1,4 +1,4 @@
-# The-Collaboration-Project
+# The-Collaboration-Project:muscle:
 A centralized area to find projects from others and collaborate with 
 
 ***I wrote a longer read me, I am going to put it in "LONGEREADME.md," this read me explains the porject break down, takes ~3 minutes to read ***
