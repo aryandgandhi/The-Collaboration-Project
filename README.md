@@ -37,11 +37,16 @@ There are three folders to this project:
 .
   OWNER
     a. Project actively working on/ want to manage
-    b. Looking to build this and try for some goal (10000 users or change online dating, etc)
+    b. Looking to build this and try for some smaller goal (1000 users or small tools, etc)
     c. 
     
   OWNER to do:
     a. Fork repository
     b. Add to the read me in there. Max four sentence summary of the project and add a link to the project. Also add a link to another read me that you add that details the project in a similar method as the other readme's
     c. 
+    
+3. Serious about this idea (lowkey startup)
+  OWNER
+    a. Have a vision for this becoming huge, passionate about building and want help to grow it
+    b. Looking for 
  
