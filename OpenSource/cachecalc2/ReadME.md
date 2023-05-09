@@ -15,7 +15,7 @@ Currently hosted on Vercel [Cache Calc](https://cachecalc.vercel.app). Feel free
 
 
 ## Video Demo (optional)
-Can use Loom -> 
+Can use -> 
 
 
 ## Contact Info (optional)
