@@ -17,7 +17,7 @@ A centralized area to find projects from others and collaborate with
  4. No need to start projects from scratch (good chance you won't be doing that at your job)
 
 ## There are three folders to this project:boom::
-1. For fun (shared repository)
+## 1. For fun (shared repository)
 
   OWNER
     <ol type="a">
@@ -31,25 +31,44 @@ A centralized area to find projects from others and collaborate with
   
     
   OWNER to do:
-    a. Fork the repository
-    b. Add the files to the project and a ReadMe that accurately descibes the project for the user EX.
-    c. **optional to include future steps, if you have a vision for it
-    d. Submit a pull request with said project 
+   <ol type="a">
+    <li>Fork the repository</li>
+    <li>Add the files to the project and a ReadMe that accurately descibes the project for the user EX.</li>
+    <li>**optional to include future steps, if you have a vision for it</li>
+    <li>Submit a pull request with said project </li>
+    <li> Examples: Cache Calc, Python email delete </li>
+ 
+  </ol>
+  
     
-2. Build a mini-product
+## 2. Build a mini-product
 
   OWNER
-    a. Project actively working on/ want to manage
-    b. Looking to build this and try for some smaller goal (1000 users or small tools, etc)
-    c. 
+   <ol type="a">
+    <li>Project actively working on/ want to manage</li>
+    <li>Looking to build this and try for some smaller goal (1000 users or small tools, etc)</li>
+
+ 
+  </ol>
+
     
   OWNER to do:
-    a. Fork repository
-    b. Add to the read me in there. Max four sentence summary of the project and add a link to the project. Also add a link to another read me that you add that details the project in a similar method as the other readme's
-    c. 
+  <ol type="a">
+    <li> Fork repository</li>
+    <li>Add to the read me in there. Max four sentence summary of the project and add a link to the project. Also add a link to another read me that you add that details the project in a similar method as the other readme's</li>
+
+ 
+  </ol>
+
     
-3. Serious about this idea (lowkey startup)
+## 3. Serious about this idea (lowkey startup)
   OWNER
-    a. Have a vision for this becoming huge, passionate about building and want help to grow it
-    b. Looking for 
+   <ol type="a">
+    <li> Have a vision for this becoming huge, passionate about building and want help to grow it</li>
+
+
+ 
+  </ol>
+
+   
  
